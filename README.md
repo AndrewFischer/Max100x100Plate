@@ -9,3 +9,5 @@ The design rule constraints and predefined sizes are a **starting point** for ne
 ![Two 50x100mm boards on a Max100x100 plate](_pictures/Two50s.jpg "Two 100x50mm PCBs on the Max100 plate")<br>
 ## TBD
 Improved constraints
+### License
+[cc-by-nc 4.0](LICENSE.md)
