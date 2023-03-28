@@ -1,6 +1,6 @@
 # Max100x100Plate
 <br>
-This is a base plate and template for Max 100x100 modules.  A single 100x100 board or two [50x100 boards](https://github.com/AndrewFischer/Max50x100Plate) mount on the 100x100 plate.<br>   
+This is a base plate and template for Max 100x100 modules.  A single 100x100 board or two [50x100 boards](https://github.com/AndrewFischer/Max50x100Plate "50x100mm template") mount on the 100x100 plate.<br>   
 
 The design rules constraints are set for JLCPCB capabilites. Use the board as template or import the settings into your PCB. <br>
 
